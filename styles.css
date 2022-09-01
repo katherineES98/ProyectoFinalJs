@@ -1,0 +1,225 @@
+.img-error{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%!important;
+
+
+}
+
+.img-siguiente{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%!important;
+
+}
+
+.text-Error{
+font-size: 45px;
+font-family: "Schoolbell",serif;
+font-weight: 600;
+text-align: center;
+color: white;
+}
+
+
+/*estilo pagina
+.cuerpo{
+    height: 800px;
+    background-image: url("./img/876589.jpg");
+  background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+
+*/
+
+
+ #container{
+margin: 45px;
+margin-right: 80px;
+ 
+  
+ }
+
+ .text-name{
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  
+ }
+
+ .text-lista{
+  font-size: 13px;
+  font-weight: bold;
+ }
+ 
+
+
+.cuerpo{
+  background-color: #000;
+  background-image: url('./img/descarga.svg')
+}
+
+
+.navbar .navbar{
+    background-color: transparent !important;
+}
+
+.container-card{
+  text-align: center!important;
+}
+
+.borde{
+  margin-top: 80px!important;
+}
+
+
+/*.borde{
+  border: 1px solid rgb(16, 182, 215);
+  }**/
+
+
+.imgRedonda{
+  width: 150px;
+  height: 160px; 
+  border-radius: 100px;
+  align-items: center;
+  margin-top: 20px;
+  box-shadow:0 10px 50px #02b1c8;
+  
+
+}
+
+.img-centrar{
+  text-align:center;
+  display:block;
+ 
+}
+
+
+
+.card{
+
+
+  margin: 15px;
+  background-color: #222831!important;
+  height: 37rem;
+  border-radius: 5px;
+    
+  box-shadow: 3px 3px 3px 3px rgb(255, 255, 255);
+    color: #fff;
+    height: 500px;
+    font-family: "Baloo Paaji 2",cursive;
+/*border-color: white!important;
+background-color: transparent!important;
+  box-shadow: 5px 5px 5px 5px rgb(255, 255, 255);*/
+
+  
+
+}
+
+
+
+.card-body{
+  background-color: transparent;
+ 
+  border-radius: 5px;
+/* margin-top: 100px;
+ margin-top: -75px;*/
+
+ 
+}
+
+
+
+
+
+.cardS{
+  margin-top: 10px!important;
+}
+
+.footer-btn{
+  background-color: transparent ;
+  height: 80px;
+  text-align: center;
+ 
+
+
+}
+.logo-rick{
+  margin-left: 50px;
+}
+.ctn-bod{
+  margin-top: 12px;
+}
+.fa-solid  {
+  font-weight: 1000;
+  position: relative;
+  right: 5px;
+ 
+  top: -4px!important;
+
+}
+
+
+
+#search{
+    width: 30px; 
+    height: 30px;
+    border: 1px solid #00b4cc;
+    background: #00b4cc;
+    text-align: center;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    position: relative;
+    right: 5%;
+    
+}
+
+
+
+#inputBuscar{
+  width: 100%;
+  border: 3px solid #00b4cc;
+  border-right: none;
+  padding: 5px;
+  height: 30px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: #9dbfaf;
+  font-family: "Baloo Paaji 2",cursive;
+  font-size: 18px;
+}
+
+#btn-anterior{
+  border-radius: 20px;
+  width: 150px;
+  color: white;
+  font-family: Schoolbell; 
+  font-weight: 700;
+  font-size: 20px;
+}
+#btn-siguiente{
+  border-radius: 20px;
+  width: 150px;
+  color: white;
+  font-family: Schoolbell; 
+  font-weight: 700;
+  font-size: 20px;
+}
+
+/*boton*/
+.third {
+  border-color: #3498db;
+  color: #fff;
+  box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+}
+.third:hover {
+  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+}
+
